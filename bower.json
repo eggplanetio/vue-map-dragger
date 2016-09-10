@@ -1,0 +1,20 @@
+{
+  "name": "vue-map-dragger",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "brian@eggplanet.io"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/eggplanetio/vue-map-dragger",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.pep": "^0.6.8"
+  }
+}
